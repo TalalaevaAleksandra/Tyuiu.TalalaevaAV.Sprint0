@@ -9,6 +9,7 @@
             {
                 resulArray[i] = numOne[i] + numTwo[i];
             }
+
             return resulArray;
         }
 

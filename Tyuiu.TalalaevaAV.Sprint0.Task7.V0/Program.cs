@@ -5,6 +5,7 @@ namespace Tyuiu.TalalaevaAV.Sprint0.Task7.V0
     {
         static void Main(string[] args)
         {
+
             Console.Title = "Спринт #0| Выполнила: Талалаева А.В. | ИИПб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #0                                                               *");
