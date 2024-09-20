@@ -7,6 +7,7 @@
             int[] resulArray = new int[5];
             for (var i = 0; i < resulArray.Length; i++)
             {
+
                 resulArray[i] = numOne[i] + numTwo[i];
             }
 
